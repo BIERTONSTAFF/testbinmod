@@ -10,7 +10,7 @@
 - CheckInterval = 5
 - XOR key = DE AD BE EF CA FE BA BE
 
-![image](https://github.com/user-attachments/assets/a7e95046-6489-492b-ba31-1a0810d5f2e7)
+![image](https://github.com/user-attachments/assets/de3c426d-f198-4c3a-a9b2-013ba3e01d66)
 ### Input file content
 "DEAD BEEF CAFE BABE" → 44 45 41 44 20 42 45 45 46 20 43 41 46 45 20 42 41 42 45
 
