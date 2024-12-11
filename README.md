@@ -8,14 +8,14 @@
 - OverwriteOutputFiles = CreateUniqueName(1)
 - Mode = Timer(0)
 - CheckInterval = 5
-- XOR key = 1101 → 1101000000000000
+- XOR key = DE AD BE EF CA FE BA BE
 
 ![image](https://github.com/user-attachments/assets/a7e95046-6489-492b-ba31-1a0810d5f2e7)
 ### Input file content
-"abc" → 61 62 63
+"DEAD BEEF CAFE BABE" → 44 45 41 44 20 42 45 45 46 20 43 41 46 45 20 42 41 42 45
 
 ## Output
 ### Files content
-70 63 63 → "pcc"
+9A E8 FF AB EA BC FF FB 98 8D FD AE 8C BB 9A FC 9F EF FB
 
 ![image](https://github.com/user-attachments/assets/6b65c173-3cf6-42f0-a440-ded1655b31c8)
